@@ -21,3 +21,5 @@ A simple and interactive To-Do Web Application built using HTML, CSS, and JavaSc
 ## 📷 Preview
 ## 📷 Preview
 ![To-Do App Screenshot](https://github.com/user-attachments/assets/1494c693-08d4-4ab6-8855-ff6be39e04bb)
+## 🌐 Live Demo
+https://snigdhyamondal-hub.github.io/todo-app
